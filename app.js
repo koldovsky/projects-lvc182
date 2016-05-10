@@ -183,7 +183,7 @@ app.service('studentService', ['$q', function ($q) {
         },
         {
             "name":"Igor Lukov",
-            "websiteUrl":"http://29lim85.github.io/git-site.",
+            "websiteUrl":"http://29lim85.github.io/git-site",
             "codeSourceUrl":"https://github.com/29lim85/git-site/tree/gh-pages",
             "photo":"images/students/lukov.jpg",
             "cvUrl":""
