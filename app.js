@@ -162,9 +162,9 @@ app.service('studentService', ['$q', function ($q) {
         },
         {
             "name":"Vasylyna Kurylo",
-            "websiteUrl":"http://Lina25.github.io/mysite",
-            "codeSourceUrl":"https://github.com/Lina25/mysite",
-            "photo":"images/students/no-photo.gif",
+            "websiteUrl":"http://lina25.github.io/site02/",
+            "codeSourceUrl":"https://github.com/Lina25/site02",
+            "photo":"images/students/kurylo.jpg",
             "cvUrl":""
         },
         {
