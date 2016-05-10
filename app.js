@@ -122,7 +122,7 @@ app.service('studentService', ['$q', function ($q) {
             "name":"Mykhailo Bilous",
             "websiteUrl":"http://mykhailobilous.github.io/main_project/",
             "codeSourceUrl":"https://github.com/MykhailoBilous/main_project.git",
-            "photo":"images/students/no-photo.gif",
+            "photo":"images/students/bilous.jpg",
             "cvUrl":""
         },
         {
@@ -213,7 +213,7 @@ app.service('studentService', ['$q', function ($q) {
             "name":"Oleksandr Derenko",
             "websiteUrl":"http://sashaderenko.github.io/cv",
             "codeSourceUrl":"https://github.com/SashaDerenko/cv",
-            "photo":"images/students/no-photo.gif",
+            "photo":"images/students/derenko.jpg",
             "cvUrl":""
         },
         {
