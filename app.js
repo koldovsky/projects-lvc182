@@ -115,7 +115,7 @@ app.service('studentService', ['$q', function ($q) {
             "name":"Ivan Hladysh",
             "websiteUrl":"http://hladysh.github.io/sv",
             "codeSourceUrl":"https://github.com/hladysh/sv.git",
-            "photo":"images/students/no-photo.gif",
+            "photo":"images/students/hladysh.jpg",
             "cvUrl":""
         },
         {
@@ -176,8 +176,8 @@ app.service('studentService', ['$q', function ($q) {
         },
         {
             "name":"Ivan Popovych",
-            "websiteUrl":"http://ivanpopovych.github.io/MarkupHTML_IvanPopovych",
-            "codeSourceUrl":"https://github.com/IvanPopovych/MarkupHTML_IvanPopovych",
+            "websiteUrl":"http://ivanpopovych.github.io/IvanPopovych/",
+            "codeSourceUrl":"https://github.com/IvanPopovych/IvanPopovych",
             "photo":"images/students/popovych.jpg",
             "cvUrl":"https://drive.google.com/file/d/0BzXYz8WKMRTUcFdmQUllUDlld3M/view"
         },
@@ -199,7 +199,7 @@ app.service('studentService', ['$q', function ($q) {
             "name":"Marta Kostets'ka",
             "websiteUrl":"http://murcheniatko.github.io/cvpage",
             "codeSourceUrl":"https://github.com/murcheniatko/cvpage",
-            "photo":"images/students/no-photo.gif",
+            "photo":"images/students/kostetska.jpg",
             "cvUrl":""
         },
         {
@@ -220,7 +220,7 @@ app.service('studentService', ['$q', function ($q) {
             "name":"Olena Kutsir",
             "websiteUrl":"http://olenakutsir.github.io/mypage1/",
             "codeSourceUrl":"https://github.com/olenakutsir/mypage1",
-            "photo":"images/students/kutsir.png",
+            "photo":"images/students/kutsir.jpg",
             "cvUrl":""
         },
         {
@@ -228,6 +228,13 @@ app.service('studentService', ['$q', function ($q) {
             "websiteUrl":"http://petrokushnir.github.io/website",
             "codeSourceUrl":"https://github.com/PetroKushnir/website",
             "photo":"images/students/kushnir.jpg",
+            "cvUrl":""
+        },
+        {
+            "name":"Uliana Furyk",
+            "websiteUrl":"http://ulyanafuryk.github.io/cv_uliana_furyk/",
+            "codeSourceUrl":"https://github.com/ulyanafuryk/cv_uliana_furyk",
+            "photo":"images/students/furyk.jpg",
             "cvUrl":""
         }
     ];
